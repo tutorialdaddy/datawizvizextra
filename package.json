@@ -1,0 +1,17 @@
+{
+  "name": "datawizvizextra",
+  "version": "0.1.1",
+  "description": "Extra visualization types for DataWizJS, such as histograms and scatter plots.",
+  "main": "vizextra.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tutorialdaddy/datawizvizextra.git"
+  },
+  "dependencies": {
+    "datawizjs": "^0.1.0",
+    "datawizvizextra": "^0.1.0",
+    "plotly": "^1.0.0"
+  },
+  "author": "tutorialdaddy",
+  "license": "MIT"
+}
